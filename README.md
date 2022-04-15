@@ -1,2 +1,4 @@
 # Google-meet-clone
-with ReactJS, Web RTC and Firebase.
+Front-end : React and Redux
+Database : Firebase
+To transmit real-time media : WebRTC
